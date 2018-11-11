@@ -1,2 +1,1 @@
-# windows2012r2
-Windows Server 2012 R2
+Windows Server is a brand name for a group of server operating systems.
